@@ -44,8 +44,6 @@ public class AdventofCode2 {
     }
 
     public static void main(String[] args) {
-        // array of each row. Compare each element to find the largest, and the smallest numbers. Subtract smallest from largest and store away
-        // then add all the differences to each other for final answer.
         int[][] array = new int[][]{
 
             {86,440,233,83,393,420,228,491,159,13,110,135,97,238,92,396},
